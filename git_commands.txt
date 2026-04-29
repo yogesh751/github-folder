@@ -1,0 +1,6 @@
+git init -> initialize the empty git repository
+git status -> to check the status of the file.
+git add filename -> to stage the file.
+git commit -m "message is compulsary" -> to track the file from staging env.
+git rm --cached filename -> to unstage the file.
+git restore filename -> to restore the deleted file.
