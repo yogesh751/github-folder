@@ -4,3 +4,6 @@ git add filename -> to stage the file.
 git commit -m "message is compulsary" -> to track the file from staging env.
 git rm --cached filename -> to unstage the file.
 git restore filename -> to restore the deleted file.
+git remote add origin https://github.com/yogesh751/github-folder.git
+git remote -v
+git push origin master
