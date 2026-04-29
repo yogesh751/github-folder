@@ -7,3 +7,5 @@ git restore filename -> to restore the deleted file.
 git remote add origin https://github.com/yogesh751/github-folder.git
 git remote -v
 git push origin master
+
+this is some new changes on github.
