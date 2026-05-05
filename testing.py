@@ -1,1 +1,7 @@
-print("Hello Dosto, kaise ho sab, kya haal chaal?")
+def hello():
+    """
+    this is demo 
+    """
+    return "Hello Dosto"
+
+hello()
